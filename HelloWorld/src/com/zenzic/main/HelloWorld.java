@@ -16,7 +16,7 @@ public class HelloWorld {
 			  { 10, 11, 12}
 			};
 		int resMatrix[][] = new int[x][y];
-		//addarrayobject[0][0][0][0][0][0] = new Integer(8);
+
 		StringBuilder sb = new StringBuilder("abc").append("123").append("");
 		
 		for(int i=0; i < x; i++) {
