@@ -28,7 +28,7 @@ public class HelloWorld {
 			for(int j=0; j< y; j++) {
 				System.out.print(resMatrix[i][j] + ", ");
 			}
-			System.out.println("\n ");
+			System.out.println("\n test ");
 		}
 		System.out.println(resMatrix.length);
 	}
